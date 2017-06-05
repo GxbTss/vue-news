@@ -1,0 +1,6 @@
+export const SHOWLOADING = 'SHOWLOADING'
+export const HIDELOADING = 'HIDELOADING'
+export const SHOWHEADER = 'SHOWHEADER'
+export const HIDEHEADER = 'HIDEHEADER'
+export const SHOWFOOTER = 'SHOWFOOTER'
+export const HIDEFOOTER = 'HIDEFOOTER'
